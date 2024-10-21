@@ -6,5 +6,9 @@ public class Main {
         System.out.println("Hello World");
         System.out.println("Hirusha");
         System.out.println("Silva");
+
+        for (int i = 0; i < 10; i++) {
+            System.out.println(i);
+        }
     }
 }
